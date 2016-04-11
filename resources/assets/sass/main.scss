@@ -1,0 +1,10 @@
+@charset 'UTF-8';
+
+@import 'base/variables';
+@import 'base/base';
+@import 'mixins/mixins';
+@import 'vendor';
+@import 'components/components';
+
+// 6. Page-specific styles
+@import 'pages/pages';

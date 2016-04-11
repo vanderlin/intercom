@@ -1,0 +1,5 @@
+suites:
+    main:
+        namespace: InterComm
+        psr4_prefix: InterComm
+        src_path: app
